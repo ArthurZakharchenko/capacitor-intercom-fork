@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.getcapacitor.community.intercom.intercom",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "capacitor-community-intercom-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.getcapacitor.community.intercom.intercom",
+        "split": ""
+      }
+    }
+  ]
+}

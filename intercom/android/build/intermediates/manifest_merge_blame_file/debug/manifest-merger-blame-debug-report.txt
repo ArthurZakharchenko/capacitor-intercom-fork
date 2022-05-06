@@ -1,0 +1,23 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.getcapacitor.community.intercom.intercom"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml:3:5-66
+11-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml:4:5-79
+12-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml:4:22-77
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/arthurzakharchenko/Documents/campusreelmobileapp/node_modules/@capacitor-community/intercom/android/src/main/AndroidManifest.xml:5:22-63
+14
+15</manifest>
